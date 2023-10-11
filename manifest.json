@@ -9,7 +9,9 @@
   "short_name": "시간의법칙",
   "start_url": "https://loopy-kim.github.io/pwatest/",
   "theme_color": "#ffffff",
-  "categories": [],
+  "categories": [
+    "productivity"
+  ],
   "screenshots": [],
   "icons": [
     {
