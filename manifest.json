@@ -1,0 +1,21 @@
+{
+  "background_color": "#ffffff",
+  "description": "1만시간의법칙입니다.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "1만시간의법칙",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "시간의법칙",
+  "start_url": "https://loopy-kim.github.io/pwatest/",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "img/favicon.ico"
+    }
+  ],
+  "shortcuts": [],
+  "lang": "ko"
+}
